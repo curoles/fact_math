@@ -2,3 +2,6 @@
 - has:
     description:
       type: str
+- has:
+    data_type:
+      type: str
